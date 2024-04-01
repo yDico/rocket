@@ -1,13 +1,13 @@
  <p align='center'>
   <b> FOLLOW ME </b><br>  
-  <a href="https://www.instagram.com/fernando.fch/">*Instagram*</a> |
-  <a href="https://www.youtube.com/channel/UCS0GBZr9Bp6627iHENVKhAQ">YouTube</a> |
-  <a href="https://github.com/ydico">Github</a><br><br>
+  <a href="https://www.instagram.com/fernando.fch/">INSTAGRAM</a> |
+  <a href="https://www.youtube.com/channel/UCS0GBZr9Bp6627iHENVKhAQ">YOUTUBE</a> |
+  <a href="https://github.com/ydico">GITHUB</a><br><br>
   <img src="https://helpintech.net/wp-content/uploads/2021/06/discord-nitro.jpg" style="width: 80%">
 </p>
 
 ##  
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 90%">
 
 ## ☕ USO
 - #### 💻 Baixando
