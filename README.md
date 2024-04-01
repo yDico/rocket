@@ -3,7 +3,7 @@
   <a href="https://www.instagram.com/fernando.fch/">Instagram</a> |
   <a href="https://www.youtube.com/channel/UCS0GBZr9Bp6627iHENVKhAQ">YouTube</a> |
   <a href="https://github.com/ydico">Github</a><br><br>
-  <img src="https://digiseller.com/preview/1126013/p1_3545754_c33c549a.gif" style="width: 20%">
+  <img src="https://digiseller.com/preview/1126013/p1_3545754_c33c549a.gif" style="width: 80%">
 </p>
 
 ##  
