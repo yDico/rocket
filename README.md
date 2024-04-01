@@ -37,7 +37,7 @@
 ### 🧰 Support
 
 - #### Instagram <https://www.instagram.com/fernando.fch/>
-- 
+  #### Email <Fernandofriedrich51@hmail.com>
 - #### Telegram <https://t.me//+5551992145331>
   
 ##  
