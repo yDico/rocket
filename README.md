@@ -1,8 +1,8 @@
  <p align='center'>
- ## <b> FOLLOW ME </b><br>  
- #### <a href="https://www.instagram.com/fernando.fch/">Instagram</a> |
- #### <a href="https://www.youtube.com/channel/UCS0GBZr9Bp6627iHENVKhAQ">YouTube</a> |
- #### <a href="https://github.com/ydico">Github</a><br><br>
+  <b> FOLLOW ME </b><br>  
+  <a href="https://www.instagram.com/fernando.fch/">*Instagram*</a> |
+  <a href="https://www.youtube.com/channel/UCS0GBZr9Bp6627iHENVKhAQ">YouTube</a> |
+  <a href="https://github.com/ydico">Github</a><br><br>
   <img src="https://helpintech.net/wp-content/uploads/2021/06/discord-nitro.jpg" style="width: 80%">
 </p>
 
@@ -37,7 +37,7 @@
 
 ## 🧰 Support
 
-#### <img src="https://camo.githubusercontent.com/d0839caaee087179aed17073b0e759f641b661c0cab81ef95e9846975c2091f8/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" style="width: 2%"> Instagram <https://www.instagram.com/fernando.fch/>
+#### <img src="https://camo.githubusercontent.com/d0839caaee087179aed17073b0e759f641b661c0cab81ef95e9846975c2091f8/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" style="width: 2%"> <a href="https://www.instagram.com/fernando.fch/">*Instagram*</a>
 
 #### <img src="https://camo.githubusercontent.com/d0839caaee087179aed17073b0e759f641b661c0cab81ef95e9846975c2091f8/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" style="width: 2%"> Email <Fernandofriedrich51@hmail.com>
 
