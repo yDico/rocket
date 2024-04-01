@@ -11,9 +11,11 @@
 
 ## ☕ USO
 - #### 💻 Baixando
+- ➘
      ```
     git clone https://github.com/yDico/rocket.git
      ```
+  ➘
      ```
     pip install -r requirements.txt
     ```
