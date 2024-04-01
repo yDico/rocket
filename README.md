@@ -9,7 +9,7 @@
 ##  
 
 
-### ☕ USO
+## ☕ USO
 - #### 💻 Baixando
      ```
     >> git clone https://github.com/yDico/rocket.git
@@ -25,7 +25,7 @@
 
 ##  
 
-### 🏆 Lista de recursos
+## 🏆 Lista de recursos
 - Verificação muito rápida
 - Suporte proxy: http/s, socks4/5, Premium
 - Uso Simples
@@ -34,11 +34,14 @@
 
 ##   
 
-### 🧰 Support
+## 🧰 Support
 
 - #### Instagram <https://www.instagram.com/fernando.fch/>
-  #### Email <Fernandofriedrich51@hmail.com>
-- #### Telegram <https://t.me//+5551992145331>
+- #### Email     <Fernandofriedrich51@hmail.com>
+- #### Telegram  <https://t.me//+5551992145331>
+
+- Esta é uma frase <span style="color:blue">azul</span> e esta é outra frase <span style="color:red">vermelha</span>.
+
   
 ##  
 
