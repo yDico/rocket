@@ -40,10 +40,6 @@
 - #### Email     <Fernandofriedrich51@hmail.com>
 - #### Telegram  <https://t.me//+5551992145331>
 
-- <span style="color:RED"> TESTE </span>
-
-
-
   
 ##  
 
