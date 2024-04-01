@@ -40,7 +40,9 @@
 - #### Email     <Fernandofriedrich51@hmail.com>
 - #### Telegram  <https://t.me//+5551992145331>
 
-- Esta é uma frase <span style="color:blue">azul</span> e esta é outra frase <span style="color:red">vermelha</span>.
+- <span style="background-color:blue; color:white">Esta é uma frase azul</span> e <span style="background-color:red; color:white">esta é outra frase vermelha</span>.
+
+
 
   
 ##  
