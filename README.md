@@ -1,5 +1,5 @@
  <p align='center'>
-  <b>FOLLOW ME</b><br> <img src="[https://helpintech.net/wp-content/uploads/2021/06/discord-nitro.jpg](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)" style="width: 10%"> 
+ <img src="[https://helpintech.net/wp-content/uploads/2021/06/discord-nitro.jpg](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)" style="width: 10%">  <b>FOLLOW ME</b><br> <img src="[https://helpintech.net/wp-content/uploads/2021/06/discord-nitro.jpg](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)" style="width: 10%"> 
   <a href="https://www.instagram.com/fernando.fch/">INSTAGRAM</a> |
   <a href="https://www.youtube.com/channel/UCS0GBZr9Bp6627iHENVKhAQ">YOUTUBE</a> |
   <a href="https://github.com/ydico">GITHUB</a> <img src="[https://helpintech.net/wp-content/uploads/2021/06/discord-nitro.jpg](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)" style="width: 10%"> <br><br>
