@@ -7,7 +7,7 @@
 </p>
 
 ##  
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 150%">
 
 ## ☕ USO
 - #### 💻 Baixando
@@ -22,7 +22,7 @@
       4 - Selecione quantos threads você deseja usar na configuração/config.json (opticional)
       5 - Execute main.py e aproveite para conferir
      ```
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 150%">
 
 ##  
 
