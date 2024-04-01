@@ -12,8 +12,10 @@
 ## ☕ USO
 - #### 💻 Baixando
      ```
-    >> git clone https://github.com/yDico/rocket.git
-    >> pip install -r requirements.txt
+    git clone https://github.com/yDico/rocket.git
+     ```
+     ```
+    pip install -r requirements.txt
     ```
 - #### 🖥️ Iniciando
       1 - Insira seus proxies na configuração/proxies.txt
