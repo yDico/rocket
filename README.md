@@ -35,7 +35,9 @@
 ##   
 
 ### 🧰 Support
-- Email: <fernandofriedrich51.com>
+
+- Email: < ^fernandofriedrich51.com >
+- 
 ##  
 
 ### 📜 Licença e Aviso
