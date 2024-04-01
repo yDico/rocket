@@ -36,8 +36,9 @@
 
 ### 🧰 Support
 
-- ## Instagram <https://www.instagram.com/fernando.fch/>
-- ## Telegram <https://t.me//+5551992145331>
+- #### Instagram <https://www.instagram.com/fernando.fch/>
+- 
+- #### Telegram <https://t.me//+5551992145331>
   
 ##  
 
