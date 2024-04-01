@@ -37,7 +37,7 @@
 ### 🧰 Support
 
 - Istagram <https://www.instagram.com/fernando.fch/>
-- Whatsapp <wa.me//+5551992145331>
+- Whatsapp <https://api.whatsapp.com/send/?phone=%2B5551998841593&text&type=phone_number&app_absent=0>
 - Telegram <https://t.me//+5551992145331>
   
 ##  
