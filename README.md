@@ -3,7 +3,7 @@
   <a href="https://www.instagram.com/fernando.fch/">Instagram</a> |
   <a href="https://www.youtube.com/channel/UCS0GBZr9Bp6627iHENVKhAQ">YouTube</a> |
   <a href="https://github.com/ydico">Github</a><br><br>
-  <img src="https://cdn.discordapp.com/attachments/879708989158490152/883919490402897980/unknown.png](https://private-user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE5NTY5OTUsIm5iZiI6MTcxMTk1NjY5NSwicGF0aCI6Ii83NDAzODE5MC8yNDMxOTk1NDctNDIwNzcwNDktMTkzOS00OTNlLTlhMTktNDdjYTVkYjM2NjQzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDAxVDA3MzEzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU3M2M5ZWEwNzgwMGY3NWRmZWI1OTM5M2E2MzFjMzc1NTZiNzNmYmUzYWZhZDMxZjM2ODEwOWFhZTBjNDk3MjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.0oREJFsUqjXOJn3OmBKGa9RROKFJDvMCAfD0zrxyBQ4)" style="width: 55%">
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" style="width: 55%">
 </p>
 
 ##  
