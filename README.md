@@ -3,8 +3,7 @@
   <a href="https://www.instagram.com/fernando.fch/">Instagram</a> |
   <a href="https://www.youtube.com/channel/UCS0GBZr9Bp6627iHENVKhAQ">YouTube</a> |
   <a href="https://github.com/ydico">Github</a><br><br>
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" style="width: 30%">
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" style="width: 20%">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" style="width: 30%"> <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" style="width: 20%">
 </p>
 
 ##  
