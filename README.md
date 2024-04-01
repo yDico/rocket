@@ -36,8 +36,10 @@
 
 ### 🧰 Support
 
-- span style="color:blue">azul</span> batata span style="color:blue">azul</span>
-- 
+- Istagram <https://www.instagram.com/fernando.fch/>
+- Whatsapp <wa.me//+5551992145331>
+- Telegram <https://t.me//+5551992145331>
+  
 ##  
 
 ### 📜 Licença e Aviso
