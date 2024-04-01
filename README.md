@@ -1,5 +1,5 @@
  <p align='center'>
-  <b> FOLLOW ME </b><br>  
+  <b>FOLLOW ME</b><br>  
   <a href="https://www.instagram.com/fernando.fch/">INSTAGRAM</a> |
   <a href="https://www.youtube.com/channel/UCS0GBZr9Bp6627iHENVKhAQ">YOUTUBE</a> |
   <a href="https://github.com/ydico">GITHUB</a><br><br>
