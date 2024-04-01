@@ -3,7 +3,7 @@
   <a href="https://www.instagram.com/fernando.fch/">Instagram</a> |
   <a href="https://www.youtube.com/channel/UCS0GBZr9Bp6627iHENVKhAQ">YouTube</a> |
   <a href="https://github.com/ydico">Github</a><br><br>
-  <img src="https://media.tenor.com/dNazr64FFAIAAAAM/%D0%B4%D0%B8%D1%81%D0%BA%D0%BE%D1%80%D0%B4-nitro.gif" style="width: 80%">
+  <img src="https://helpintech.net/wp-content/uploads/2021/06/discord-nitro.jpg" style="width: 80%">
 </p>
 
 ##  
