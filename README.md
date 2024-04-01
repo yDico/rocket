@@ -36,7 +36,7 @@
 
 ### 🧰 Support
 
-- batata span style="color:blue">azul</span>
+- span style="color:blue">azul</span> batata span style="color:blue">azul</span>
 - 
 ##  
 
