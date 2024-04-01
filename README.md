@@ -36,7 +36,7 @@
 
 ### 🧰 Support
 
-- Email: < ^fernandofriedrich51.com >
+- batata span style="color:blue">azul</span>
 - 
 ##  
 
