@@ -1,8 +1,8 @@
 # <p align='center'>
- # <b> FOLLOW ME </b><br>  
- ### <a href="https://www.instagram.com/fernando.fch/">Instagram</a> |
- ### <a href="https://www.youtube.com/channel/UCS0GBZr9Bp6627iHENVKhAQ">YouTube</a> |
- ### <a href="https://github.com/ydico">Github</a><br><br>
+ ## <b> FOLLOW ME </b><br>  
+ #### <a href="https://www.instagram.com/fernando.fch/">Instagram</a> |
+ #### <a href="https://www.youtube.com/channel/UCS0GBZr9Bp6627iHENVKhAQ">YouTube</a> |
+ #### <a href="https://github.com/ydico">Github</a><br><br>
   <img src="https://helpintech.net/wp-content/uploads/2021/06/discord-nitro.jpg" style="width: 80%">
 </p>
 
